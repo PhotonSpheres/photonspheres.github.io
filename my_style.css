@@ -268,6 +268,10 @@ a:hover {
 
 
 
+.image-wrapper {
+    max-width: 820px;
+}
+
 .column-left {
     padding: 30px;
 }
@@ -281,6 +285,14 @@ a:hover {
     margin-left: 30px;
     margin-right: 30px;  */
     /* padding: 0px; */
+
+.text-field {
+    max-width:  820px;
+}
+
+.ratio {
+    max-width: 820px;
+}
 
 .column-right .section-title{
     /* margin-top: 80px; */
